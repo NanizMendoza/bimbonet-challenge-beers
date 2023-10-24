@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cervezas del mundo</string>
+
+    <!-- Login !-->
+    <string name="login_password">Contraseña</string>
+    <string name="login_welcome">Bienvenido!</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_username">Nombre de usuario</string>
+
+    <!-- Logout !-->
+    <string name="logout_item">Cerrar sesión</string>
+
+    <!-- Detail !-->
+    <string name="detail_description">Descripción:</string>
+    <string name="detail_brewer_tips">Brewer tips:</string>
+    <string name="detail_contributed_by">Contribuido por:</string>
+    <string name="login_validate_username">Por favor, ingrese su nombre</string>
+    <string name="login_validate_password">Por favor, ingrese su contraseña</string>
+</resources>
